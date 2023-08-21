@@ -1,4 +1,5 @@
-- 👋 Hi, I'm @Ryancheng236
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=走走停停+不如停留半刻)](https://git.io/typing-svg)
+- 👋 Hi, I'm @Ryancheng236        
 
 <div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Ryancheng236&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
