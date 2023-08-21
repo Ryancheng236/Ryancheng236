@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=走走停停+不如停留半刻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E8%B5%B0%E8%B5%B0%E5%81%9C%E5%81%9C%EF%BC%8C%E4%B8%8D%E5%A6%82%E5%81%9C%E7%95%99%E5%8D%8A%E5%88%BB)](https://git.io/typing-svg)
+
 - 👋 Hi, I'm @Ryancheng236        
 
 <div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Ryancheng236&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
